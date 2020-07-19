@@ -9,6 +9,10 @@ My name is Diana Lin. I'm a second-year graduate student at the University of Br
 <a href="https://orcid.org/0000-0001-9645-3247"><img src="https://github.com/dy-lin/logos/raw/master/ORC-ID/ORCID-iD_icon-32x32.png" alt="0000-0001-9645-3247" title="0000-0001-9645-3247" width="32" height="32"></a>&nbsp;
 <a href="http://www.birollab.ca/member/dlin"><img src="https://github.com/dy-lin/logos/blob/master/web/website-icon.svg" alt="Birol Lab" title="Birol Lab" width="32" height="32"></a>
 
+## Publications
+Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Jaquish B, Isabel N, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete chloroplast genome sequence of a white spruce (*Picea glauca*, genotype WS77111) from eastern Canada.__ [Microbiol Resour Announc 8:e00381-19. doi: 10.1128/MRA.00381-19.](https://mra.asm.org/content/8/23/e00381-19)
+
+Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, McDonald H, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Doerksen T, Jaquish B, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete Chloroplast Genome Sequence of an Engelmann Spruce (*Picea engelmannii*, Genotype Se404-851) from Western Canada.__ [Microbiol Resour Announc 8:e00382-19. doi: 10.1128/MRA.00382-19.](https://mra.asm.org/content/8/24/e00382-19)
 <!--
 ## Presentations
 
@@ -49,7 +53,7 @@ My name is Diana Lin. I'm a second-year graduate student at the University of Br
   - [Assignment Repository](https://github.com/dy-lin/stat547-hw)
   - [Participation Repository](https://github.com/dy-lin/stat547-participation)
 
-### McGill (2015-2018)
+### McGill University (2015-2018)
 
 - **COMP 202:** Introduction to Programming
   - [Assignment Repository](https://github.com/dy-lin/comp202)
