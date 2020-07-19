@@ -41,7 +41,7 @@ Genetic and Functional Drivers of Diffuse Large B Cell Lymphoma | [Mar 19, 2018]
 MC4R-dependent suppression of appetite by bone-derived lipocalin 2 | [Nov 20, 2017](https://github.com/dy-lin/phgy/blob/master/phgy550/PHGY550_Oral2.pdf)
 Differentiation of pluripotent stem cells to muscle fiber to model Duchenne muscular dystrophy | [Nov 01, 2017](https://github.com/dy-lin/phgy/blob/master/phgy488/PHGY488_Presentation.pdf)
 Acquired hypocalciuric hypercalcemia due to autoantibodies against the calcium-sensing receptor | [Oct 23, 2017](https://github.com/dy-lin/phgy/blob/master/phgy550/PHGY550_Oral1.pdf)
-The Cardia Na Channel | [Mar 10, 2017](https://github.com/dy-lin/phgy/blob/master/phgy312/PHGY312_Oral.pdf)
+The Cardiac Na Channel | [Mar 10, 2017](https://github.com/dy-lin/phgy/blob/master/phgy312/PHGY312_Oral.pdf)
 
 ## Papers
 Paper | Date
