@@ -30,40 +30,37 @@ My name is Diana Lin. I'm a second-year graduate student at the University of Br
 
 ### University of British Columbia (2019-2020)
 
-#### Term 1
-- **MICB405:** Bioinformatics
-  - [Group Projects Repository](https://github.com/dy-lin/micb405-projects)
-- **STAT545:** Exploratory Data Analysis
-  - [Participation Repository](https://github.com/dy-lin/stat545-participation)
-  - [Assignment Repository](https://github.com/dy-lin/stat545-hw)
 - **BIOF501:** Special Topics in Bioinformatics
   - [Presentation Repository](https://github.com/dy-lin/biof501)
-
-#### Term 2
-- **STAT540:** Statistical Methods for High Dimensional Biology
-  - [Group Project Repository](https://github.com/dy-lin/stat540-project)
-  - [Assignment Repository](https://github.com/dy-lin/stat540-hw)
-- **STAT547:** Topics in Statistics
-  - [Group Project Repository](https://github.com/dy-lin/stat547-project)
-  - [Assignment Repository](https://github.com/dy-lin/stat547-hw)
-  - [Participation Repository](https://github.com/dy-lin/stat547-participation)
 - **BIOF520:** Problem-Based Learning in Bioinformatics
   - [Case Studies Repository](https://github.com/dy-lin/biof520)
 - **MEDG505:** Genome Analysis
   - [Presentation Repository](https://github.com/dy-lin/medg505)
+- **MICB405:** Bioinformatics
+  - [Group Projects Repository](https://github.com/dy-lin/micb405-projects)
+- **STAT540:** Statistical Methods for High Dimensional Biology
+  - [Group Project Repository](https://github.com/dy-lin/stat540-project)
+  - [Assignment Repository](https://github.com/dy-lin/stat540-hw)
+- **STAT545:** Exploratory Data Analysis
+  - [Participation Repository](https://github.com/dy-lin/stat545-participation)
+  - [Assignment Repository](https://github.com/dy-lin/stat545-hw)
+- **STAT547:** Topics in Statistics
+  - [Group Project Repository](https://github.com/dy-lin/stat547-project)
+  - [Assignment Repository](https://github.com/dy-lin/stat547-hw)
+  - [Participation Repository](https://github.com/dy-lin/stat547-participation)
 
-<!-- ### McGill (2014-2018)
+### McGill (2015-2018)
 
-#### COMP 202
-
-#### COMP 206
-
-#### COMP 250
-
-#### COMP 322
-
-#### COMP 364
--->
+- **COMP 202:** Introduction to Programming
+  - [Assignment Repository](https://github.com/dy-lin/comp202)
+- **COMP 206:** Introduction to Software Systems
+  - [Assignment Repository](https://github.com/dy-lin/comp206)
+- **COMP 250:** Introduction to Computer Science
+  - [Assignment Repository](https://github.com/dy-lin/comp250)
+- **COMP 322:** Introduction to C++
+  - [Assignment Repository](https://github.com/dy-lin/comp322)
+- **COMP 364:** Computer Tools for Life Sciences
+  - [Assignment Repository](https://github.com/dy-lin/comp364)
 
 <!--
 ### Hi there 👋
