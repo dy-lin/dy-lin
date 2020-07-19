@@ -17,12 +17,45 @@ Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, McDonald H, Kir
 ## Education
 Master of Science, Bioinformatics, University of British Columbia, 2021 (in progress)<br/>
 Bachelor of Science, Physiology, McGill University, 2018
-<!--
-## Presentations
 
-  
+
+## Table of Contents
+1. [Presentations](#presentations)
+1. [Papers](#papers)
+1. [Internship](#internship-2018-2019)
+1. [Class Repositories](#class-repositories)
+
+## Presentations
+Presentation | Date 
+-------------|--------
+Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptides | [Jul 03, 2020](https://github.com/dy-lin/msc-thesis-committee/blob/master/BioTalk_2020July3.pdf)
+MSc Thesis Committee Meeting #1 | [Jun 15, 2020](https://github.com/dy-lin/msc-thesis-committee/blob/master/CommitteeMeeting1.pdf)
+Differential Methylation in Primary vs Metastatic Cancer | [Apr 26, 2020](https://github.com/dy-lin/stat540-project/blob/master/presentation.pdf)
+Genome Skimming | [Mar 13, 2020](https://github.com/dy-lin/medg505/blob/master/GenomeSkimming.pdf)
+Is junk DNA bunk? A critique of ENCODE | [Jan 24, 2020](https://github.com/dy-lin/medg505/blob/master/StudentPresentation.pdf)
+Data Visualization Lessons from Hackseq | [Nov 18, 2019](https://dy-lin.github.io/hs19-trends/workshop/slides_full.html#1)
+PastML: A Fast Likelihood Method to Reconstruct and Visualize Ancestral Scenarios | [Oct 31, 2019](https://github.com/dy-lin/biof501/blob/master/current_paper/DianaLin_CurrentPaper.pdf)
+Single cell technologies in sequence assembly and genome construction | [Oct 03, 2019](https://github.com/dy-lin/biof501/blob/master/field_review/DianaLin_FieldReview.pdf)
+Unicycler: Resolving bacterial genome assemblies from short and long sequencing reads | [Sep 12, 2019](https://github.com/dy-lin/biof501/blob/master/sci_comm/DianaLin_SciComm.pdf)
+Genetic and Functional Drivers of Diffuse Large B Cell Lymphoma | [Mar 19, 2018](https://github.com/dy-lin/phgy/blob/master/phgy516/PHGY516_Presentation.pdf)
+MC4R-dependent suppression of appetite by bone-derived lipocalin 2 | [Nov 20, 2017](https://github.com/dy-lin/phgy/blob/master/phgy550/PHGY550_Oral2.pdf)
+Differentiation of pluripotent stem cells to muscle fiber to model Duchenne muscular dystrophy | [Nov 01, 2017](https://github.com/dy-lin/phgy/blob/master/phgy488/PHGY488_Presentation.pdf)
+Acquired hypocalciuric hypercalcemia due to autoantibodies against the calcium-sensing receptor | [Oct 23, 2017](https://github.com/dy-lin/phgy/blob/master/phgy550/PHGY550_Oral1.pdf)
+The Cardia Na Channel | [Mar 10, 2017](https://github.com/dy-lin/phgy/blob/master/phgy312/PHGY312_Oral.pdf)
+
+## Papers
+Paper | Date
+------|------
+The physiological role of deubiquitinase A20 in inflammation and related diseases | [Apr 05, 2018](https://github.com/dy-lin/phgy/blob/master/phgy516/PHGY516_Paper.pdf)
+_In vivo_ deactivation of the _Wnt_ signalling pathway in _Hyp_ mice, a mouse model for X-linked hypophosphatemia | [Dec 07, 2017](https://github.com/dy-lin/phgy/blob/master/phgy550/Essay2.pdf)
+Differentiation of pluripotent stem cells to muscle fiber to model Duchenne muscular dystrophy | [Nov 01, 2017](https://github.com/dy-lin/phgy/blob/master/phgy488/PHGY488_Presentation.pdf)
+_In vivo_ effects of the knocknout of _Lyz2_ on the process of osteoclast differentiation in mice | [Oct 03, 2017](https://github.com/dy-lin/phgy/blob/master/phgy550/Essay1.pdf)
+Case Study #6: X-linked Sideroblastic Anemia | [Apr 03, 2017](https://github.com/dy-lin/phgy/blob/master/phgy313/PHGY313_TermPaper.pdf)
+The Inferotemporal Cortex | [Nov 24, 2016](https://github.com/dy-lin/phgy/blob/master/phgy314/TermPaper.pdf)
+A Critique of "A Gain-of-Function Mutation in Na<sub>v</sub>1.6 in a Case of Trigeminal Neuralgia" | [Nov 13, 2016](https://github.com/dy-lin/phgy/blob/master/phgy311/PHGY311_TermPaper.pdf)
+
 ## MSc Thesis Committee
--->
+- Committee Meeting [#1](https://github.com/dy-lin/msc-thesis-committee/blob/master/CommitteeMeeting1.pdf)
 
 ## Internship (2018-2019)
 - _Picea glauca_ (genotype WS77111) chloroplast genome
@@ -69,6 +102,20 @@ Bachelor of Science, Physiology, McGill University, 2018
   - [Assignment Repository](https://github.com/dy-lin/comp322)
 - **COMP 364:** Computer Tools for Life Sciences
   - [Assignment Repository](https://github.com/dy-lin/comp364)
+- **PHGY 311:** Channels, Synapses & Hormones
+  - [Directory](https://github.com/dy-lin/phgy/tree/master/phgy311)
+- **PHGY 312:** Respiratory, Renal, & Cardiovascular
+  - [Directory](https://github.com/dy-lin/phgy/tree/master/phgy312)
+- **PHGY 313:** Blood, Gastrointestinal, & Immune Systems Physiology
+  - [Directory](https://github.com/dy-lin/phgy/tree/master/phgy313)
+- **PHGY 314:** Integrative Neuroscience
+  - [Directory](https://github.com/dy-lin/phgy/tree/master/phgy314)
+- **PHGY 488:** Stem Cell Biology
+  - [Directory](https://github.com/dy-lin/phgy/tree/master/phgy488)
+- **PHGY 516:** Physiology of Blood 2
+  - [Directory](https://github.com/dy-lin/phgy/tree/master/phgy516)
+- **PHGY 550:** Molecular Physiology of Bone
+  - [Directory](https://github.com/dy-lin/phgy/tree/master/phgy550)
 
 <!--
 ### Hi there 👋
