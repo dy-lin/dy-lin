@@ -12,7 +12,7 @@ My name is Diana Lin. I'm a second-year graduate student at the University of Br
 ## Publications
 Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Jaquish B, Isabel N, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete chloroplast genome sequence of a white spruce (*Picea glauca*, genotype WS77111) from eastern Canada.__ [Microbiol Resour Announc 8:e00381-19. doi: 10.1128/MRA.00381-19.](https://mra.asm.org/content/8/23/e00381-19)
 
-Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, McDonald H, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Doerksen T, Jaquish B, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete Chloroplast Genome Sequence of an Engelmann Spruce (*Picea engelmannii*, Genotype Se404-851) from Western Canada.__ [Microbiol Resour Announc 8:e00382-19. doi: 10.1128/MRA.00382-19.](https://mra.asm.org/content/8/24/e00382-19)
+Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, McDonald H, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Doerksen T, Jaquish B, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete chloroplast genome sequence of an Engelmann spruce (*Picea engelmannii*, genotype Se404-851) from western Canada.__ [Microbiol Resour Announc 8:e00382-19. doi: 10.1128/MRA.00382-19.](https://mra.asm.org/content/8/24/e00382-19)
 
 ## Education
 Master of Science, Bioinformatics, University of British Columbia, 2021 (in progress)<br/>
@@ -46,6 +46,9 @@ The Cardiac Na Channel | [Mar 10, 2017](https://github.com/dy-lin/phgy/blob/mast
 ## Papers
 Paper | Date
 ------|------
+Genome skimming | [Mar 13, 2020](https://en.wikipedia.org/wiki/Genome_skimming)
+Complete chloroplast genome sequence of an Engelmann spruce (*Picea engelmannii*, genotype Se404-851) from western Canada | [Jun 13, 2019](https://mra.asm.org/content/8/24/e00382-19)
+Complete chloroplast genome sequence of a white spruce (*Picea glauca*, genotype WS77111) from eastern Canada | [Jun 06, 2019](https://mra.asm.org/content/8/23/e00381-19)
 The physiological role of deubiquitinase A20 in inflammation and related diseases | [Apr 05, 2018](https://github.com/dy-lin/phgy/blob/master/phgy516/PHGY516_Paper.pdf)
 _In vivo_ deactivation of the _Wnt_ signalling pathway in _Hyp_ mice, a mouse model for X-linked hypophosphatemia | [Dec 07, 2017](https://github.com/dy-lin/phgy/blob/master/phgy550/Essay2.pdf)
 Differentiation of pluripotent stem cells to muscle fiber to model Duchenne muscular dystrophy | [Nov 01, 2017](https://github.com/dy-lin/phgy/blob/master/phgy488/PHGY488_Presentation.pdf)
