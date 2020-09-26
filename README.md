@@ -4,15 +4,16 @@ My name is Diana Lin. I'm a second-year graduate student at the University of Br
 <a href="mailto:dlin@bcgsc.ca"><img src="https://github.com/dy-lin/logos/blob/master/web/email-icon.svg" alt="dlin@bcgsc.ca" title="dlin@bcgsc.ca" width="32" height="32"></a>&nbsp;&nbsp;
 <a href="https://github.com/dy-lin"><img src="https://github.com/dy-lin/logos/raw/master/GitHub/GitHub-Mark/PNG/GitHub-Mark-32px.png" width="32" height="32" alt="@dy-lin" title="@dy-lin"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/di_lyn"><img src="https://github.com/dy-lin/logos/raw/master/Twitter/Twitter%20Social%20Icons/Twitter%20Social%20Icons/Twitter_SocialIcon_Circle/Twitter_Social_Icon_Circle_Color.png" width="33" height="33" alt="@di_lyn" title="@di_lyn"></a>&nbsp;&nbsp;
-<a href="www.linkedin.com/in/dianalin8Edit your custom URL
-"><img src="https://github.com/dy-lin/logos/raw/master/LinkedIn/LinkedIn-Logos/LI-In-Bug.png" alt="dianalin8" title="dianalin8" width="38" height="32"></a>
+<a href="https://www.linkedin.com/in/dianalin8/"><img src="https://github.com/dy-lin/logos/raw/master/LinkedIn/LinkedIn-Logos/LI-In-Bug.png" alt="dianalin8" title="dianalin8" width="38" height="32"></a>
 <a href="https://orcid.org/0000-0001-9645-3247"><img src="https://github.com/dy-lin/logos/raw/master/ORC-ID/ORCID-iD_icon-32x32.png" alt="0000-0001-9645-3247" title="0000-0001-9645-3247" width="32" height="32"></a>&nbsp;
 <a href="http://www.birollab.ca/member/dlin"><img src="https://github.com/dy-lin/logos/blob/master/web/website-icon.svg" alt="Birol Lab" title="Birol Lab" width="32" height="32"></a>
 
 ## Publications
-Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Jaquish B, Isabel N, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete chloroplast genome sequence of a white spruce (*Picea glauca*, genotype WS77111) from eastern Canada.__ [Microbiol Resour Announc 8:e00381-19. doi: 10.1128/MRA.00381-19.](https://mra.asm.org/content/8/23/e00381-19)
+Lo T, Coombe L, Lin D, Warren RL, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Bousquet J, Jones SJM, Bohlmann J, Thomson A, Birol I. 2020. __Complete Chloroplast Genome Sequence of a Black Spruce (*Picea mariana*) from Eastern Canada.__ Microbiol Resour Announc 9:e00877-20. doi: [10.1128/MRA.00877-20.](https://mra.asm.org/content/9/39/e00877-20)
 
-Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, McDonald H, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Doerksen T, Jaquish B, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete chloroplast genome sequence of an Engelmann spruce (*Picea engelmannii*, genotype Se404-851) from western Canada.__ [Microbiol Resour Announc 8:e00382-19. doi: 10.1128/MRA.00382-19.](https://mra.asm.org/content/8/24/e00382-19)
+Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Jaquish B, Isabel N, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete chloroplast genome sequence of a white spruce (*Picea glauca*, genotype WS77111) from eastern Canada.__ Microbiol Resour Announc 8:e00381-19. doi: [10.1128/MRA.00381-19.](https://mra.asm.org/content/8/23/e00381-19)
+
+Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, McDonald H, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Doerksen T, Jaquish B, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete chloroplast genome sequence of an Engelmann spruce (*Picea engelmannii*, genotype Se404-851) from western Canada.__ Microbiol Resour Announc 8:e00382-19. doi: [10.1128/MRA.00382-19.](https://mra.asm.org/content/8/24/e00382-19)
 
 ## Education
 Master of Science, Bioinformatics, University of British Columbia, 2021 (in progress)<br/>
