@@ -16,7 +16,7 @@ Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, Kirk H, Pandoh 
 Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, McDonald H, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Doerksen T, Jaquish B, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete chloroplast genome sequence of an Engelmann spruce (*Picea engelmannii*, genotype Se404-851) from western Canada.__ Microbiol Resour Announc 8:e00382-19. doi: [10.1128/MRA.00382-19.](https://mra.asm.org/content/8/24/e00382-19)
 
 ## Education
-Master of Science, Bioinformatics, University of British Columbia, 2021 (in progress)<br/>
+Master of Science, Bioinformatics, University of British Columbia, 2021<br/>
 Bachelor of Science, Physiology, McGill University, 2018
 
 
@@ -26,11 +26,14 @@ Bachelor of Science, Physiology, McGill University, 2018
 1. [Internship](#internship-2018-2019)
 1. [Class Repositories](#class-repositories)
 
+<!--
+**GSC Bioinformatics Weekly Seminar:** Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptides | [Jul 03, 2020](https://github.com/dy-lin/msc-thesis-committee/blob/master/BioTalk_2020July3.pdf)
+MSc Thesis Committee Meeting #1 | [Jun 15, 2020](https://github.com/dy-lin/msc-thesis-committee/blob/master/CommitteeMeeting1.pdf) -->
+
+
 ## Presentations
 Presentation | Date 
 -------------|--------
-**GSC Bioinformatics Weekly Seminar:** Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptides | [Jul 03, 2020](https://github.com/dy-lin/msc-thesis-committee/blob/master/BioTalk_2020July3.pdf)
-MSc Thesis Committee Meeting #1 | [Jun 15, 2020](https://github.com/dy-lin/msc-thesis-committee/blob/master/CommitteeMeeting1.pdf)
 **STAT 540**: Differential Methylation in Primary vs Metastatic Cancer | [Apr 26, 2020](https://github.com/dy-lin/stat540-project/blob/master/presentation.pdf)
 Genome Skimming | [Mar 13, 2020](https://github.com/dy-lin/medg505/blob/master/GenomeSkimming.pdf)
 **Genome BC Geneskool Workshop:** Alien Babies | [Feb 18, 2020](https://github.com/dy-lin/misc/blob/master/AlienBabies_Slides.pdf)
@@ -60,8 +63,9 @@ Paper | Date
 **PHGY 314:** The Inferotemporal Cortex | [Nov 24, 2016](https://github.com/dy-lin/phgy/blob/master/phgy314/TermPaper.pdf)
 **PHGY 311:** A Critique of "A Gain-of-Function Mutation in Na<sub>v</sub>1.6 in a Case of Trigeminal Neuralgia" | [Nov 13, 2016](https://github.com/dy-lin/phgy/blob/master/phgy311/PHGY311_TermPaper.pdf)
 
+<!--
 ## MSc Thesis Committee
-- Committee Meeting [#1](https://github.com/dy-lin/msc-thesis-committee/blob/master/CommitteeMeeting1.pdf)
+- Committee Meeting [#1](https://github.com/dy-lin/msc-thesis-committee/blob/master/CommitteeMeeting1.pdf) -->
 
 ## Internship (2018-2019)
 - _Picea glauca_ (genotype WS77111) chloroplast genome
