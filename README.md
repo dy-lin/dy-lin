@@ -1,5 +1,7 @@
-# Diana Lin
-My name is Diana Lin. I'm a second-year graduate student at the University of British Columbia (UBC) in Vancouver, BC, in the graduate program Master of Science in Bioinformatics. In 2018, I finished my Bachelor of Science in Physiology at McGill University. Following my graduation, I completed an 8-month internship at the [Bioinformatics Technology Lab (BTL)](http://www.birollab.ca), where I currently work, located in [Canada's Michael Smith Genome Sciences Centre](http://www.bcgsc.ca).
+# Diana Lin, MSc
+My name is Diana Lin. In 2021, I completed my Master of Science in Bioinformatics at the University of British Columbia (UBC) in Vancouver, BC, under the supervision of Dr. Inanc Birol at the [Bioinformatics Technology Lab (BTL)](http://www.birollab.ca), located in [Canada's Michael Smith Genome Sciences Centre](http://www.bcgsc.ca). In 2018, I finished my Bachelor of Science in Physiology at McGill University in Montreal, QC. 
+
+<!--Following my undergrate studies, I completed an 8-month internship at the [Bioinformatics Technology Lab (BTL)](http://www.birollab.ca), located in [Canada's Michael Smith Genome Sciences Centre](http://www.bcgsc.ca).-->
 
 <a href="mailto:dlin@bcgsc.ca"><img src="https://github.com/dy-lin/logos/blob/master/web/email-icon.svg" alt="dlin@bcgsc.ca" title="dlin@bcgsc.ca" width="32" height="32"></a>&nbsp;&nbsp;
 <a href="https://github.com/dy-lin"><img src="https://github.com/dy-lin/logos/raw/master/GitHub/GitHub-Mark/PNG/GitHub-Mark-32px.png" width="32" height="32" alt="@dy-lin" title="@dy-lin"></a>&nbsp;&nbsp;
