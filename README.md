@@ -3,14 +3,27 @@ My name is Diana Lin. In 2021, I completed my Master of Science in Bioinformatic
 
 <!--Following my undergrate studies, I completed an 8-month internship at the [Bioinformatics Technology Lab (BTL)](http://www.birollab.ca), located in [Canada's Michael Smith Genome Sciences Centre](http://www.bcgsc.ca).-->
 
-<a href="mailto:dlin@bcgsc.ca"><img src="https://github.com/dy-lin/logos/blob/master/web/email-icon.svg" alt="dlin@bcgsc.ca" title="dlin@bcgsc.ca" width="32" height="32"></a>&nbsp;&nbsp;
+<a href="mailto:diana.lin@alumni.ubc.ca"><img src="https://github.com/dy-lin/logos/blob/master/web/email-icon.svg" alt="dlin@bcgsc.ca" title="dlin@bcgsc.ca" width="32" height="32"></a>&nbsp;&nbsp;
 <a href="https://github.com/dy-lin"><img src="https://github.com/dy-lin/logos/raw/master/GitHub/GitHub-Mark/PNG/GitHub-Mark-32px.png" width="32" height="32" alt="@dy-lin" title="@dy-lin"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/di_lyn"><img src="https://github.com/dy-lin/logos/raw/master/Twitter/Twitter%20Social%20Icons/Twitter%20Social%20Icons/Twitter_SocialIcon_Circle/Twitter_Social_Icon_Circle_Color.png" width="33" height="33" alt="@di_lyn" title="@di_lyn"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dianalin8/"><img src="https://github.com/dy-lin/logos/raw/master/LinkedIn/LinkedIn-Logos/LI-In-Bug.png" alt="dianalin8" title="dianalin8" width="38" height="32"></a>
 <a href="https://orcid.org/0000-0001-9645-3247"><img src="https://github.com/dy-lin/logos/raw/master/ORC-ID/ORCID-iD_icon-32x32.png" alt="0000-0001-9645-3247" title="0000-0001-9645-3247" width="32" height="32"></a>&nbsp;
 <a href="http://www.birollab.ca/member/dlin"><img src="https://github.com/dy-lin/logos/blob/master/web/website-icon.svg" alt="Birol Lab" title="Birol Lab" width="32" height="32"></a>
 
+## Theses
+
+Lin, D. (2021). __High throughput in silico discovery of antimicrobial peptides in amphibian and insect transcriptomes.__ University of British Columbia. https://dx.doi.org/10.14288/1.0402476
+
+## Software
+
+Lin, D., Sutherland, D., Aninta, S. I., Nip, K. M., Li, C., Coombe, L., Warren, R. L., Helbing, C., Hoang, L., Birol, I. (2021). __rAMPage: Rapid Antimicrobial Peptide Annotation and Gene Estimation.__ Canada’s Michael Smith Genome Sciences Centre at BC Cancer. https://github.com/bcgsc/rAMPage
+
 ## Publications
+
+Lin, D., Sutherland, D., Aninta, S. I., Louie, N., Nip, K. M., Li, C., Yanai, A., Coombe, L., Warren, R. L., Helbing, C., Hoang, L., Birol, I. (2022). __Mining amphibian and insect transcriptomes for antimicrobial peptide sequences.__ bioRxiv (in preparation).
+
+Gagalova, K. K., Whitehill, J. G. A., Culibrk, L., Lin, D., Levesque-Tremblay, V., Keeling, C. I., Coombe, L., Birol, I., Bohlmann, J., Jones, S. J. M. (2022). __The genome of the forest insect pest Pissodes strobi reveals genome expansion and evidence of a Wolbachia endosymbiont.__ G3 Genes|Genomes|Genetics (accepted).
+
 Lo T, Coombe L, Lin D, Warren RL, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Bousquet J, Jones SJM, Bohlmann J, Thomson A, Birol I. 2020. __Complete Chloroplast Genome Sequence of a Black Spruce (*Picea mariana*) from Eastern Canada.__ Microbiol Resour Announc 9:e00877-20. doi: [10.1128/MRA.00877-20.](https://mra.asm.org/content/9/39/e00877-20)
 
 Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Jaquish B, Isabel N, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete chloroplast genome sequence of a white spruce (*Picea glauca*, genotype WS77111) from eastern Canada.__ Microbiol Resour Announc 8:e00381-19. doi: [10.1128/MRA.00381-19.](https://mra.asm.org/content/8/23/e00381-19)
@@ -28,6 +41,7 @@ Bachelor of Science, Physiology, McGill University, 2018
 1. [Internship](#internship-2018-2019)
 1. [Class Repositories](#class-repositories)
 
+\* Some presentation materials will be made available after the publication of my manuscript.
 <!--
 **GSC Bioinformatics Weekly Seminar:** Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptides | [Jul 03, 2020](https://github.com/dy-lin/msc-thesis-committee/blob/master/BioTalk_2020July3.pdf)
 MSc Thesis Committee Meeting #1 | [Jun 15, 2020](https://github.com/dy-lin/msc-thesis-committee/blob/master/CommitteeMeeting1.pdf) -->
