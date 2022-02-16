@@ -8,7 +8,7 @@ My name is Diana Lin. In 2021, I completed my Master of Science in Bioinformatic
 <a href="https://twitter.com/di_lyn"><img src="https://github.com/dy-lin/logos/raw/master/Twitter/Twitter%20Social%20Icons/Twitter%20Social%20Icons/Twitter_SocialIcon_Circle/Twitter_Social_Icon_Circle_Color.png" width="33" height="33" alt="@di_lyn" title="@di_lyn"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dianalin8/"><img src="https://github.com/dy-lin/logos/raw/master/LinkedIn/LinkedIn-Logos/LI-In-Bug.png" alt="dianalin8" title="dianalin8" width="38" height="32"></a>
 <a href="https://orcid.org/0000-0001-9645-3247"><img src="https://github.com/dy-lin/logos/raw/master/ORC-ID/ORCID-iD_icon-32x32.png" alt="0000-0001-9645-3247" title="0000-0001-9645-3247" width="32" height="32"></a>&nbsp;
-<a href="http://www.birollab.ca/member/dlin"><img src="https://github.com/dy-lin/logos/blob/master/web/website-icon.svg" alt="Birol Lab" title="Birol Lab" width="32" height="32"></a>
+<a href="https://dy-lin.github.io"><img src="https://github.com/dy-lin/logos/blob/master/web/website-icon.svg" alt="Diana Lin" title="Diana Lin" width="32" height="32"></a>
 
 ## Theses
 
