@@ -43,7 +43,6 @@ Bachelor of Science, Physiology, McGill University, 2018
 1. [Internship](#internship-2018-2019)
 1. [Class Repositories](#class-repositories)
 
-\* Some presentation materials will be made available after the publication of my manuscript.
 <!--
 **GSC Bioinformatics Weekly Seminar:** Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptides | [Jul 03, 2020](https://github.com/dy-lin/msc-thesis-committee/blob/master/BioTalk_2020July3.pdf)
 MSc Thesis Committee Meeting #1 | [Jun 15, 2020](https://github.com/dy-lin/msc-thesis-committee/blob/master/CommitteeMeeting1.pdf) -->
