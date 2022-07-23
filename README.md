@@ -52,6 +52,15 @@ MSc Thesis Committee Meeting #1 | [Jun 15, 2020](https://github.com/dy-lin/msc-t
 ## Presentations
 Presentation | Date 
 -------------|--------
+Karsan Lab Interview | [Feb 10, 2022](https://github.com/dy-lin/msc-thesis/blob/master/KarsanLabInterview.pdf)
+MSc Thesis Defence | [Sep 29, 2021](https://github.com/dy-lin/msc-thesis/blob/master/MScThesisDefence.pdf)
+**Poster:** ISMB | [Jul 25,<br/>2021](https://github.com/dy-lin/msc-thesis/blob/master/Lin_Diana_ISMB2021.pdf)
+**GSC Bioinformatics Weekly Seminar - Exit Seminar:** Discovering antimicrobial peptides in amphibian and insect transcriptomes | [Jul 16,<br/>2021](https://github.com/dy-lin/msc-thesis/blob/master/BioTalk_2021July16.pdf)
+MSc Thesis Committee Meeting #2 | [May 20, 2021](https://github.com/dy-lin/msc-thesis/blob/master/CommitteeMeeting2.pdf)
+**Poster:** BIGX | [Mar 30, 2021](https://github.com/dy-lin/msc-thesis/blob/master/Lin_Diana_BIGX2021.pdf)
+**Poster:** BC Cancer Research Day | [Sep 21, 2020](https://github.com/dy-lin/msc-thesis/blob/master/Lin_Diana_BCCancerResearchDay.pdf)
+**GSC Bioinformatics Weekly Seminar:** Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptides | [Jul 03, 2020](https://github.com/dy-lin/msc-thesis/blob/master/BioTalk_2020July3.pdf)
+MSc Thesis Committee Meeting #1 | [Jun 15, 2020](https://github.com/dy-lin/msc-thesis/blob/master/CommitteeMeeting1.pdf)
 **STAT 540**: Differential Methylation in Primary vs Metastatic Cancer | [Apr 26, 2020](https://github.com/dy-lin/stat540-project/blob/master/presentation.pdf)
 Genome Skimming | [Mar 13, 2020](https://github.com/dy-lin/medg505/blob/master/GenomeSkimming.pdf)
 **Genome BC Geneskool Workshop:** Alien Babies | [Feb 18, 2020](https://github.com/dy-lin/misc/blob/master/AlienBabies_Slides.pdf)
