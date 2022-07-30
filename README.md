@@ -5,6 +5,8 @@ I recently graduateed from the Bioinformatics Graduate program at the University
 
 <!--Following my undergrate studies, I completed an 8-month internship at the [Bioinformatics Technology Lab (BTL)](http://www.birollab.ca), located in [Canada's Michael Smith Genome Sciences Centre](http://www.bcgsc.ca).-->
 
+Learn more about me [here](https://dy-lin.github.io).
+
 <a href="mailto:dlin@bcgsc.ca"><img src="https://github.com/dy-lin/logos/blob/master/web/email-icon.svg" alt="dlin@bcgsc.ca" title="dlin@bcgsc.ca" width="32" height="32"></a>&nbsp;&nbsp;
 <a href="https://github.com/dy-lin"><img src="https://github.com/dy-lin/logos/raw/master/GitHub/GitHub-Mark/PNG/GitHub-Mark-32px.png" width="32" height="32" alt="@dy-lin" title="@dy-lin"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/di_lyn"><img src="https://github.com/dy-lin/logos/raw/master/Twitter/Twitter%20Social%20Icons/Twitter%20Social%20Icons/Twitter_SocialIcon_Circle/Twitter_Social_Icon_Circle_Color.png" width="33" height="33" alt="@di_lyn" title="@di_lyn"></a>&nbsp;&nbsp;
