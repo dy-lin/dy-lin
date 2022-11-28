@@ -24,6 +24,8 @@ Lin, D., Sutherland, D., Aninta, S.I., Louie, N., Nip, K.M., Li, C., Yanai, A., 
 
 ## Publications
 
+Richter, A., Sutherland, D., Ebrahimikondori, H., Babock, A., Louie, N., Li, C., Coombe, L., Lin, D., Warren, R.L., Yanai, A., Kotkoff, M., Helbing, C.C., Hof, F., Hoang, L.M.N., Birol, I. (2022). __Associating Biological Activity and Predicted Structure of Antimicrobial Peptides from Amphibians and Insects.__ Antibiotics 11(12). [https://doi.org/10.3390/antibiotics11121710](https://doi.org/10.3390/antibiotics11121710)
+
 Lin, D., Sutherland, D., Aninta, S.I., Louie, N., Nip, K.M., Li, C., Yanai, A., Coombe, L., Warren, R.L., Helbing, C.C., Hoang, L.M.N., Birol, I. (2022). __Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptide Sequences with rAMPage.__ Antibiotics 11(7). doi: [https://doi.org/10.3390/antibiotics11070952](https://doi.org/10.3390/antibiotics11070952)
 
 Gagalova, K. K., Whitehill, J. G. A., Culibrk, L., Lin, D., Levesque-Tremblay, V., Keeling, C. I., Coombe, L., Birol, I., Bohlmann, J., Jones, S. J. M. (2022). __The genome of the forest insect pest Pissodes strobi reveals genome expansion and evidence of a Wolbachia endosymbiont.__ G3 Genes|Genomes|Genetics, jkac038. doi: [https://doi.org/10.1093/g3journal/jkac038](https://doi.org/10.1093/g3journal/jkac038)
