@@ -16,25 +16,25 @@ Learn more about me [here](https://dy-lin.github.io).
 
 ## Theses
 
-Lin, D. (2021). __High throughput in silico discovery of antimicrobial peptides in amphibian and insect transcriptomes.__ University of British Columbia. https://dx.doi.org/10.14288/1.0402476
+**Lin, D.** (2021). __High throughput in silico discovery of antimicrobial peptides in amphibian and insect transcriptomes.__ University of British Columbia. https://dx.doi.org/10.14288/1.0402476
 
 ## Software
 
-Lin, D., Sutherland, D., Aninta, S.I., Louie, N., Nip, K.M., Li, C., Yanai, A., Coombe, L., Warren, R.L., Helbing, C.C., Hoang, L.M.N., Birol, I. (2022). __rAMPage: Rapid Antimicrobial Peptide Annotation and Gene Estimation.__ Canada’s Michael Smith Genome Sciences Centre at BC Cancer. https://github.com/bcgsc/rAMPage
+**Lin, D.**, Sutherland, D., Aninta, S.I., Louie, N., Nip, K.M., Li, C., Yanai, A., Coombe, L., Warren, R.L., Helbing, C.C., Hoang, L.M.N., Birol, I. (2022). __rAMPage: Rapid Antimicrobial Peptide Annotation and Gene Estimation.__ Canada’s Michael Smith Genome Sciences Centre at BC Cancer. https://github.com/bcgsc/rAMPage
 
 ## Publications
 
-Richter, A., Sutherland, D., Ebrahimikondori, H., Babock, A., Louie, N., Li, C., Coombe, L., Lin, D., Warren, R.L., Yanai, A., Kotkoff, M., Helbing, C.C., Hof, F., Hoang, L.M.N., Birol, I. (2022). __Associating Biological Activity and Predicted Structure of Antimicrobial Peptides from Amphibians and Insects.__ Antibiotics 11(12). [https://doi.org/10.3390/antibiotics11121710](https://doi.org/10.3390/antibiotics11121710)
+Richter, A., Sutherland, D., Ebrahimikondori, H., Babock, A., Louie, N., Li, C., Coombe, L., **Lin, D.**, Warren, R.L., Yanai, A., Kotkoff, M., Helbing, C.C., Hof, F., Hoang, L.M.N., Birol, I. (2022). __Associating Biological Activity and Predicted Structure of Antimicrobial Peptides from Amphibians and Insects.__ Antibiotics 11(12). [https://doi.org/10.3390/antibiotics11121710](https://doi.org/10.3390/antibiotics11121710)
 
-Lin, D., Sutherland, D., Aninta, S.I., Louie, N., Nip, K.M., Li, C., Yanai, A., Coombe, L., Warren, R.L., Helbing, C.C., Hoang, L.M.N., Birol, I. (2022). __Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptide Sequences with rAMPage.__ Antibiotics 11(7). doi: [https://doi.org/10.3390/antibiotics11070952](https://doi.org/10.3390/antibiotics11070952)
+**Lin, D.**, Sutherland, D., Aninta, S.I., Louie, N., Nip, K.M., Li, C., Yanai, A., Coombe, L., Warren, R.L., Helbing, C.C., Hoang, L.M.N., Birol, I. (2022). __Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptide Sequences with rAMPage.__ Antibiotics 11(7). doi: [https://doi.org/10.3390/antibiotics11070952](https://doi.org/10.3390/antibiotics11070952)
 
-Gagalova, K. K., Whitehill, J. G. A., Culibrk, L., Lin, D., Levesque-Tremblay, V., Keeling, C. I., Coombe, L., Birol, I., Bohlmann, J., Jones, S. J. M. (2022). __The genome of the forest insect pest Pissodes strobi reveals genome expansion and evidence of a Wolbachia endosymbiont.__ G3 Genes|Genomes|Genetics, jkac038. doi: [https://doi.org/10.1093/g3journal/jkac038](https://doi.org/10.1093/g3journal/jkac038)
+Gagalova, K. K., Whitehill, J. G. A., Culibrk, L., **Lin, D.**, Levesque-Tremblay, V., Keeling, C. I., Coombe, L., Birol, I., Bohlmann, J., Jones, S. J. M. (2022). __The genome of the forest insect pest Pissodes strobi reveals genome expansion and evidence of a Wolbachia endosymbiont.__ G3 Genes|Genomes|Genetics, jkac038. doi: [https://doi.org/10.1093/g3journal/jkac038](https://doi.org/10.1093/g3journal/jkac038)
 
-Lo T, Coombe L, Lin D, Warren RL, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Bousquet J, Jones SJM, Bohlmann J, Thomson A, Birol I. 2020. __Complete Chloroplast Genome Sequence of a Black Spruce (*Picea mariana*) from Eastern Canada.__ Microbiol Resour Announc 9:e00877-20. doi: [10.1128/MRA.00877-20.](https://mra.asm.org/content/9/39/e00877-20)
+Lo T, Coombe L, **Lin D**, Warren RL, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Bousquet J, Jones SJM, Bohlmann J, Thomson A, Birol I. 2020. __Complete Chloroplast Genome Sequence of a Black Spruce (*Picea mariana*) from Eastern Canada.__ Microbiol Resour Announc 9:e00877-20. doi: [10.1128/MRA.00877-20.](https://mra.asm.org/content/9/39/e00877-20)
 
-Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Jaquish B, Isabel N, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete chloroplast genome sequence of a white spruce (*Picea glauca*, genotype WS77111) from eastern Canada.__ Microbiol Resour Announc 8:e00381-19. doi: [10.1128/MRA.00381-19.](https://mra.asm.org/content/8/23/e00381-19)
+**Lin D**, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Jaquish B, Isabel N, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete chloroplast genome sequence of a white spruce (*Picea glauca*, genotype WS77111) from eastern Canada.__ Microbiol Resour Announc 8:e00381-19. doi: [10.1128/MRA.00381-19.](https://mra.asm.org/content/8/23/e00381-19)
 
-Lin D, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, McDonald H, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Doerksen T, Jaquish B, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete chloroplast genome sequence of an Engelmann spruce (*Picea engelmannii*, genotype Se404-851) from western Canada.__ Microbiol Resour Announc 8:e00382-19. doi: [10.1128/MRA.00382-19.](https://mra.asm.org/content/8/24/e00382-19)
+**Lin D**, Coombe L, Jackman SD, Gagalova KK, Warren RL, Hammond SA, McDonald H, Kirk H, Pandoh P, Zhao Y, Moore RA, Mungall AJ, Ritland C, Doerksen T, Jaquish B, Bousquet J, Jones SJM, Bohlmann J, Birol I. 2019. __Complete chloroplast genome sequence of an Engelmann spruce (*Picea engelmannii*, genotype Se404-851) from western Canada.__ Microbiol Resour Announc 8:e00382-19. doi: [10.1128/MRA.00382-19.](https://mra.asm.org/content/8/24/e00382-19)
 
 ## Education
 Master of Science, Bioinformatics, University of British Columbia, 2021<br/>
