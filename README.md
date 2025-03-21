@@ -24,6 +24,8 @@ Learn more about me [here](https://dy-lin.github.io).
 
 ## Publications
 
+Li, C., Sutherland, D., Salehi, A., Richter, A., **Lin, D.**, Aninta, S.I., Ebrahimikondori, H., Yanai, A., Coombe, L., Warren, R.L., Kotkoff, M., Hoang, L.M.N., Helbing, C.C., Birol, I. (2025). __Mining the UniProtKB/Swiss-Prot database for antimicrobial peptides.__ Protein Science 34(4):e70083. doi: [https://doi.org/10.1002/pro.70083](https://doi.org/10.1002/pro.70083)
+
 Richter, A., Sutherland, D., Ebrahimikondori, H., Babock, A., Louie, N., Li, C., Coombe, L., **Lin, D.**, Warren, R.L., Yanai, A., Kotkoff, M., Helbing, C.C., Hof, F., Hoang, L.M.N., Birol, I. (2022). __Associating Biological Activity and Predicted Structure of Antimicrobial Peptides from Amphibians and Insects.__ Antibiotics 11(12). [https://doi.org/10.3390/antibiotics11121710](https://doi.org/10.3390/antibiotics11121710)
 
 **Lin, D.**, Sutherland, D., Aninta, S.I., Louie, N., Nip, K.M., Li, C., Yanai, A., Coombe, L., Warren, R.L., Helbing, C.C., Hoang, L.M.N., Birol, I. (2022). __Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptide Sequences with rAMPage.__ Antibiotics 11(7). doi: [https://doi.org/10.3390/antibiotics11070952](https://doi.org/10.3390/antibiotics11070952)
