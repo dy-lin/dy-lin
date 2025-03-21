@@ -1,7 +1,7 @@
 # Diana Lin, MSc
 My name is Diana Lin, and I’m a research programmer and data scientist at the Genome Sciences Centre at BC Cancer in the Dr. Aly Karsan Lab. Currently, I am developing bioinformatics pipelines for next-generation sequencing data.
 
-I graduateed from the Bioinformatics Graduate program at the University of British Columbia (UBC) in Vancouver, BC. In October 2021, I finished my Master of Science in Bioinformatics. In 2018, I completed my Bachelor of Science in Physiology at McGill University. In between, I held an 8-month internship at the Bioinformatics Technology Lab.
+I graduated from the Bioinformatics Graduate program at the University of British Columbia (UBC) in Vancouver, BC. In October 2021, I finished my Master of Science in Bioinformatics. In 2018, I completed my Bachelor of Science in Physiology at McGill University. In between, I held an 8-month internship at the Bioinformatics Technology Lab.
 
 <!--Following my undergrate studies, I completed an 8-month internship at the [Bioinformatics Technology Lab (BTL)](http://www.birollab.ca), located in [Canada's Michael Smith Genome Sciences Centre](http://www.bcgsc.ca).-->
 
